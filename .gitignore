@@ -8,6 +8,9 @@ pnpm-debug.log*
 lerna-debug.log*
 
 public
+/public
+/public/
+public/
 vite.config.js
 package-lock.json
 node_modules/
